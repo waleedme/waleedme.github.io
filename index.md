@@ -9,7 +9,7 @@ title: Home
 # Waleed Ashraf
 **Unity/C# Game Developer** — I design **scalable, testable gameplay systems** with **SOLID** and proven **design patterns**. I ship clean UI/UX, performant mobile builds, and handle **PlayFab** LiveOps (auth, Economy v2, CloudScript, leaderboards).
 
-[Email me](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/waleed-ashraf-650810262/) · [GitHub](https://github.com/waleedme)
+[Email me](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-waleed-650810262/)
 
 ---
 
@@ -18,7 +18,7 @@ title: Home
 ### 🌾 My Perfect Farm: Farming Game
 - **Platform:** Android (Google Play)
 - **Role:** Gameplay, Systems, UI/UX
-- **Highlights:** Modular crop/animal systems, mobile optimization, clear economy loops
+- **Highlights:** Scriptable animal behaviours, data-driven crops, helper AI automation, milking flow, and customer loop tied to economy
 - **Store:** [Google Play](https://play.google.com/store/apps/details?id=com.elitegames.myperfectfarm)
 - **Case Study:** [/projects/my-perfect-farm](/projects/my-perfect-farm)
 

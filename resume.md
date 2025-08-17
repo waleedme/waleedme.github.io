@@ -12,7 +12,7 @@ Unity developer with strong **SOLID/design‑pattern** skills and experience shi
 Unity, C#, ScriptableObjects, Addressables, Coroutines, UGUI/UIToolkit, SOLID, Design Patterns, PlayFab (Auth/Economy v2/CloudScript/Leaderboards/Segments), Google Mobile Ads, Unity IAP, Android builds, Git
 
 ## Projects
-- **My Perfect Farm: Farming Game** — Modular crop/animal systems, optimized loops, clear UI/UX.  
+- **My Perfect Farm: Farming Game** — Scriptable animal behaviours, helper AI automation, milking flow, customer loop, and data‑driven crops.  
 - **Nerd vs Bully — Rescue Puzzle 3D** — Stealth/puzzle design, key/lock loops, quick‑retry levels.
 
 ## Experience
@@ -24,6 +24,5 @@ Unity, C#, ScriptableObjects, Addressables, Coroutines, UGUI/UIToolkit, SOLID, D
 - (Your degree/certification here)
 
 ## Contact
-- Email: your@email.com  
-- LinkedIn: https://www.linkedin.com/in/waleed-ashraf-650810262/  
-- GitHub: https://github.com/waleedme
+- **LinkedIn:** https://www.linkedin.com/in/muhammad-waleed-650810262/  
+- **Email:** your@email.com
