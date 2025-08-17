@@ -1,12 +1,13 @@
-# Waleed Ashraf — Game Dev Portfolio (GitHub Pages)
+# Muhammad Waleed — One‑Page Portfolio
 
-This is a Markdown‑only portfolio (no HTML/CSS). Edit `.md` files to update content.
-
-## Publish
-1) Repo name must be `waleedme.github.io`.  
-2) Upload files to the repo root.  
-3) Settings → Pages → Deploy from a branch → `main` / `(root)`.
+This is a **single‑page** portfolio for GitHub Pages.
 
 ## Edit
-- Update email/links in `index.md`, `resume.md`, `contact.md`.
-- Two project pages included: `my-perfect-farm.md` and `nerd-vs-bully.md`.
+- Open `index.html` and change email/LinkedIn and any text.
+- Replace project images in `assets/img/`.
+- Put your resume at `assets/resume/Muhammad_Waleed_Resume.pdf`.
+
+## Publish
+1. Repo: `waleedme.github.io` → Upload all files.
+2. Settings → Pages → Deploy from a branch → `main` / `(root)`.
+3. Visit `https://waleedme.github.io`.
