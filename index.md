@@ -33,11 +33,13 @@ I build clean gameplay systems, scalable architectures (SOLID), and readable UI 
 ---
 
 ## Skills
-**Unity** · **C#** · ScriptableObjects · Addressables · Coroutines · UI Toolkit/UGUI ·  
-Design Patterns (**SOLID**) · Gameplay Architecture · Mobile Optimization ·  
-Google Mobile Ads · Unity IAP · Android build & publishing
+**Unity** · **C#** · ScriptableObjects · Addressables · Coroutines · UI Toolkit/UGUI ·
+Design Patterns (**SOLID**) · Gameplay Architecture · Mobile Optimization ·
+Google Mobile Ads · Unity IAP · **PlayFab (Auth, Economy v2, CloudScript, Leaderboards, Segments, Webhooks, Matchmaking basics)** · Android build & publishing
 
 ---
 
 ## About
-I focus on **clarity, modularity, and polish**. I like turning messy prototypes into scalable, production-ready systems and creating UI that tells players exactly what’s going on.
+I’m a Unity/C# game developer with a deep understanding of **software design principles**—especially **SOLID**, composition over inheritance, and clean architecture.
+
+I build **modular, data-driven gameplay systems** (ScriptableObjects, state machines, interfaces) and handle **LiveOps** with **PlayFab**: auth, Economy v2 (catalog/currencies/inventory), CloudScript, leaderboards, and basic matchmaking/multiplayer server flows. I care about clarity, performance, and shipping maintainable code.
