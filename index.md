@@ -5,41 +5,38 @@ title: Home
 
 [Home](/) · [Projects](/projects) · [Resume](/resume) · [Contact](/contact)
 
-# Waleed Ashraf
-**Game Developer — Unity / C#**  
-I build clean gameplay systems, scalable architectures (SOLID), and readable UI for mobile.
 
-[Email me](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/waleed-ashraf-650810262/) · [GitHub](https://github.com/yourusername) · [itch.io](https://itch.io)
+# Waleed Ashraf
+**Unity/C# Game Developer** — I design **scalable, testable gameplay systems** with **SOLID** and proven **design patterns**. I ship clean UI/UX, performant mobile builds, and handle **PlayFab** LiveOps (auth, Economy v2, CloudScript, leaderboards).
+
+[Email me](mailto:your@email.com) · [LinkedIn](https://www.linkedin.com/in/waleed-ashraf-650810262/) · [GitHub](https://github.com/waleedme)
 
 ---
 
 ## Featured Projects
 
-### 🚜 Cornfield Crafter — Modular Crop System
-- **What:** State-driven, patch-based farming (seeding → watering → harvest).
-- **How:** ScriptableObjects for crop data, per-patch state machines, coroutine-driven growth, save/load.
-- **Links:** [Case Study](/projects/corn-crop-system) · [Repo](#) · [WebGL/itch](#) · [Demo Video](#)
+### 🌾 My Perfect Farm: Farming Game
+- **Platform:** Android (Google Play)
+- **Role:** Gameplay, Systems, UI/UX
+- **Highlights:** Modular crop/animal systems, mobile optimization, clear economy loops
+- **Store:** [Google Play](https://play.google.com/store/apps/details?id=com.elitegames.myperfectfarm)
+- **Case Study:** [/projects/my-perfect-farm](/projects/my-perfect-farm)
 
-### 🧹 Vacuum Frenzy — Juicy Physics Pickups
-- **What:** Fruit/dates drop with non-linear arcs, bounce & squash, pooling.
-- **How:** `AnimationCurve` trajectories, randomized lateral drift, smoothed rotations.
-- **Links:** [Case Study](/projects/vacuum-frenzy) · [Repo](#) · [APK](#) · [Demo Video](#)
-
-### 🐐 GOAT Pass — Season Pass UI (Free vs Premium)
-- **What:** Two-track reward UI with locked/claim states & discount badge.
-- **How:** Clear milestone XP progress, 3D-ish cards, color-coding.
-- **Links:** [Case Study](/projects/goat-pass-ui) · [Design Post](#)
+### 🧠 Nerd vs Bully — Rescue Puzzle 3D
+- **Platform:** Android (Google Play)
+- **Role:** Gameplay, Level Design, Feel
+- **Highlights:** Stealth/escape loops, key/lock gating, snappy puzzle feedback
+- **Store:** [Google Play](https://play.google.com/store/apps/details?id=com.tapfire.nerdvsbully)
+- **Case Study:** [/projects/nerd-vs-bully](/projects/nerd-vs-bully)
 
 ---
 
 ## Skills
-**Unity** · **C#** · ScriptableObjects · Addressables · Coroutines · UI Toolkit/UGUI ·
-Design Patterns (**SOLID**) · Gameplay Architecture · Mobile Optimization ·
-Google Mobile Ads · Unity IAP · **PlayFab (Auth, Economy v2, CloudScript, Leaderboards, Segments, Webhooks, Matchmaking basics)** · Android build & publishing
+**Unity** · **C#** · ScriptableObjects · Addressables · Coroutines · UGUI/UIToolkit ·
+Design Patterns (**SOLID**) · Clean Architecture · PlayFab (**Auth, Economy v2, CloudScript, Leaderboards, Segments**) ·
+Google Mobile Ads · Unity IAP · Android build & publishing · Git
 
 ---
 
 ## About
-I’m a Unity/C# game developer with a deep understanding of **software design principles**—especially **SOLID**, composition over inheritance, and clean architecture.
-
-I build **modular, data-driven gameplay systems** (ScriptableObjects, state machines, interfaces) and handle **LiveOps** with **PlayFab**: auth, Economy v2 (catalog/currencies/inventory), CloudScript, leaderboards, and basic matchmaking/multiplayer server flows. I care about clarity, performance, and shipping maintainable code.
+I build **modular, data‑driven** systems (ScriptableObjects, state/strategy/observer patterns) so features ship fast and remain easy to extend. I prefer **composition over inheritance**, **dependency inversion**, and **event‑driven** flows for testability and maintainability.

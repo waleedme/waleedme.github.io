@@ -1,13 +1,12 @@
-# Game Dev Portfolio — Markdown-Only (GitHub Pages)
+# Waleed Ashraf — Game Dev Portfolio (GitHub Pages)
 
-**No HTML/CSS required.** Edit Markdown and publish.
+This is a Markdown‑only portfolio (no HTML/CSS). Edit `.md` files to update content.
 
 ## Publish
-1. Create a public repo named **yourusername.github.io** (exact username).
-2. Upload these files.
-3. Open **Settings → Pages** to deploy. Visit `https://yourusername.github.io`.
+1) Repo name must be `waleedme.github.io`.  
+2) Upload files to the repo root.  
+3) Settings → Pages → Deploy from a branch → `main` / `(root)`.
 
 ## Edit
-- Change email, GitHub username, and links in `index.md`, `resume.md`, `contact.md`.
-- Replace project images in `assets/images/` with your own GIFs/PNGs.
-- Add/remove projects by editing `/projects` and linking from `projects.md`.
+- Update email/links in `index.md`, `resume.md`, `contact.md`.
+- Two project pages included: `my-perfect-farm.md` and `nerd-vs-bully.md`.
